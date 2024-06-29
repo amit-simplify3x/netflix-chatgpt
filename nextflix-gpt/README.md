@@ -1,6 +1,9 @@
 #netflix gpt
 -create-react-app
 -configure tailwind css
+-Header
+-Login page
+
 
 #features
 
@@ -19,4 +22,3 @@
  Netfilx-Gpt
     -Serach Bar
     -Movie List
-    
