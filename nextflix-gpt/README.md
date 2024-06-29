@@ -2,7 +2,11 @@
 -create-react-app
 -configure tailwind css
 -Header
+-Routing
 -Login page
+-SignUp Form
+-Form Validation
+-Use Ref Hook
 
 
 #features
