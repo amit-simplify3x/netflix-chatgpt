@@ -7,6 +7,15 @@
 -SignUp Form
 -Form Validation
 -Use Ref Hook
+-Firebase Setup
+-Deploying our app to production
+-create signup user account
+-implement signin user api
+-created redux  store with user slice
+-implemented update profile
+-implemented signout
+
+
 
 
 #features
